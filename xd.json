@@ -20,7 +20,7 @@
         "Spoofer" : false,
         "Anti Tag All" : false,
         "Imune Loc" : false,
-        "Obsoleto" : false,
+        "Obsoleto" : true,
         "Tag All" : false,
         "InstaView" : false,
         "Hide Group Numbers" : false
